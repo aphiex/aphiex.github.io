@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <a href="http://www.amitmerchant.com/electron-markdownify"><img src="https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.png" alt="Aphiex" width="200"></a>
+  <a href="http://www.amitmerchant.com/electron-markdownify"><img src="image/aphiexIcon.png" alt="Aphiex" width="200"></a>
   <br>
   APHIEX
   <br>
@@ -16,7 +16,13 @@
   <a href="#licença">Licença</a>
 </p>
 
-![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif)
+<p align="center">
+  <img src="image/app_exame_geral.png" width="200" alt="informações gerais">
+  <img src="image/app_exame_grafico.png" width="200" alt="gráfico">
+  <img src="image/app_exame_tabela.png" width="200" alt="tabela">
+  <img src="image/exame imagem.png" width="200" alt="imagens">
+</p>
+
 
 ## Principais Funcionalidades
 
@@ -54,4 +60,4 @@ Apache License 2.0
 
 ---
 
-> Autores: [@danielmpadua](https://github.com/danielmpadua) e [@ribeiromarcos](https://github.com/ribeiromarcos) &nbsp;&middot;&nbsp;
+Autores: [@danielmpadua](https://github.com/danielmpadua) e [@ribeiromarcos](https://github.com/ribeiromarcos)
