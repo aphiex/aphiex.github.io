@@ -1,18 +1,57 @@
-# Downloads
 
-- CPrefSQL implementation in Python 
-\([https://cprefsql.github.io/cprefsql/](https://cprefsql.github.io/cprefsql/)\)
-- CPrefSQLGen data generator and experiment orchestrator
-\([https://cprefsql.github.io/cprefsqlgen/](https://cprefsql.github.io/cprefsqlgen/)\)
+<h1 align="center">
+  <br>
+  <a href="http://www.amitmerchant.com/electron-markdownify"><img src="https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.png" alt="Aphiex" width="200"></a>
+  <br>
+  APHIEX
+  <br>
+</h1>
 
-# Related Publications
+<h4 align="center">Aplicativo de histórico de exames laboratoriais para uso pessoal.</h4>
 
-- Ribeiro, M.R.; Pereira, F.; and Dias, V.V.S.: [Efficient algorithms for processing preference queries](https://dl.acm.org/citation.cfm?id=2851659). ACM Symposium on Applied Computing (SAC), 2016, Pisa, Italy.
+<p align="center">
+  <a href="#principais-funcionalidades">Principais Funcionalidades</a> •
+  <a href="#como-usar">Como Usar</a> •
+  <a href="#download">Download</a> •
+  <a href="#licença">Licença</a>
+</p>
 
-- Amo, S. de; Pereira, F.: [Evaluation of conditional preference queries](https://periodicos.ufmg.br/index.php/jidm/article/view/56). Journal of Information and Data Management (JIDM). Proceedings of the 25th Brazilian Symposium on Databases, 2010.
+![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif)
 
-- de Amo, S.; Ribeiro, M.R.: [CPref-SQL: A Query Language Supporting Conditional Preferences](http://doi.acm.org/10.1145/1529282.1529633). Proceedings of the 2009 ACM Symposium on Applied Computing, 2009, Honolulu, USA.
+## Principais Funcionalidades
 
-- Pereira, F.: [CPref-SQL: uma Linguagem de Consulta com Suporte a Preferências Condicionais - Teoria e Implementação](https://repositorio.ufu.br/handle/123456789/12520). Master's Thesis, 2011, Uberlândia, Brazil.
+* Cadastro de multiplos perfis
+* Cadastro de exames laboratoriais
+* Cadastro de médicos
+* Cadastro de locais
+* Acompanhamento do histórico de exames
 
-- Ribeiro, M.R.: [Linguagens de consulta para banco de dados com suporte a preferências condicionais](https://repositorio.ufu.br/handle/123456789/12465). Master's Thesis, 2008, Uberlândia, Brazil.
+## Como Usar
+
+Para clonar e executar esta aplicação, você precisará ter o [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/download/) (que vem com o [npm](http://npmjs.com)), [Yarn](https://classic.yarnpkg.com/lang/en/docs/install/#windows-stable) e [Expo](https://docs.expo.dev/get-started/installation/) instalados em seu computador. No seu terminal:
+
+```bash
+# Clone o repositório
+$ git clone https://github.com/amitmerchant1990/electron-markdownify
+
+# Entre no repositório
+$ cd electron-markdownify
+
+# Instale as dependencias
+$ yarn
+
+# Execute a aplicação
+$ yarn start
+```
+
+## Download
+
+Voce pode baixar a versão do app para Android clicando [aqui](https://github.com/amitmerchant1990/electron-markdownify/releases/tag/v1.2.0).
+
+## Licença
+
+Apache License 2.0
+
+---
+
+> Autores: [@danielmpadua](https://github.com/danielmpadua) e [@ribeiromarcos](https://github.com/ribeiromarcos) &nbsp;&middot;&nbsp;
