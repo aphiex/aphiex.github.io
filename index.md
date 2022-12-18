@@ -32,10 +32,10 @@ Para clonar e executar esta aplicação, você precisará ter o [Git](https://gi
 
 ```bash
 # Clone o repositório
-$ git clone https://github.com/amitmerchant1990/electron-markdownify
+$ git clone https://github.com/aphiex/aphiexapp.git
 
 # Entre no repositório
-$ cd electron-markdownify
+$ cd aphiexapp
 
 # Instale as dependencias
 $ yarn
