@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <a href="http://www.amitmerchant.com/electron-markdownify"><img src="image/aphiexIcon.png" alt="Aphiex" width="200"></a>
+  <a href="https://github.com/aphiex/aphiexapp.git"><img src="image/aphiexIcon.png" alt="Aphiex" width="200"></a>
   <br>
   APHIEX
   <br>
@@ -52,7 +52,7 @@ $ yarn start
 
 ## Download
 
-Voce pode baixar a versão do app para Android clicando [aqui](https://github.com/amitmerchant1990/electron-markdownify/releases/tag/v1.2.0).
+Voce pode baixar a versão do app para Android clicando [aqui](https://github.com/aphiex/aphiexapp.git).
 
 ## Licença
 
