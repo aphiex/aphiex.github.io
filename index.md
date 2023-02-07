@@ -1,3 +1,10 @@
+<html>
+	<head>
+		<link rel="shortcut icon" type="image/x-icon" href="favicon.png">
+	</head>
+</html>
+
+
 <h1 align="center">
   <br>
   <a href="https://github.com/aphiex/aphiexapp.git"><img src="image/aphiexIcon.png" alt="Aphiex" width="200"></a>
