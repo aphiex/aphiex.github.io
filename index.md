@@ -1,8 +1,6 @@
-<html>
-	<head>
-		<link rel="shortcut icon" type="image/x-icon" href="favicon.png">
-	</head>
-</html>
+<head>
+  <link rel="shortcut icon" type="image/x-icon" href="favicon.png">
+</head>
 
 
 <h1 align="center">
