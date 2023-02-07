@@ -1,3 +1,4 @@
+<link rel="shortcut icon" type="image/x-icon" href="favicon.png">
 
 <h1 align="center">
   <br>
