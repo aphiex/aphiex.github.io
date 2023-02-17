@@ -208,10 +208,9 @@ This privacy policy page was created at [privacypolicytemplate.net](https://www.
 
 ---
 
-<h3 align="center">
-  
- Autores
+<h3 align="center">Autores</h3>
 
+<p align="center">
 <table align="center">
 <tr>
 <td valign="center">
@@ -236,4 +235,4 @@ This privacy policy page was created at [privacypolicytemplate.net](https://www.
 </td>
 </tr>
 </table>
-</h3>
+</p>
