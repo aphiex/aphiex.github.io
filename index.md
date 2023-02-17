@@ -217,8 +217,8 @@ This privacy policy page was created at [privacypolicytemplate.net](https://www.
 <br>
 <a href="https://github.com/danielmpadua/"><img src="https://avatars.githubusercontent.com/u/43578469?v=4" alt="Daniel Padua" width="200" style="width:100px; border-radius: 50%"></a>
 <br>
-  
-[@danielmpadua](https://github.com/danielmpadua)
+
+<a href="https://github.com/danielmpadua/">@danielmpadua</a>
 <br>
 </h3>
 </td>
@@ -227,8 +227,8 @@ This privacy policy page was created at [privacypolicytemplate.net](https://www.
 <br>
 <a href="https://github.com/ribeiromarcos/"><img src="https://avatars.githubusercontent.com/u/15798744?v=4" alt="Marcos Ribeiro" width="200" style="width:100px; border-radius: 50%"></a>
 <br>
-  
-[@ribeiromarcos](https://github.com/ribeiromarcos)
+
+<a href="https://github.com/ribeiromarcos/">@ribeiromarcos</a>
 <br>
 </h3>
 </td>
